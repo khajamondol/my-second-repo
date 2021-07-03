@@ -6,3 +6,20 @@
   padding: 9px 25px;
   cursor: pointer;
 }
+
+h2 {
+  color: #ff136f;
+  font-size: 40px;
+  font-family: serif;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+.pic {
+  align-items: center;
+  width: 100%;
+  height: 800px;
+}
